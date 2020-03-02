@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules
+/bower_components
+/frontend
+/public/storage
+/public/hot
+/storage/*.key
+/storage/scraper
+/storage/offline
+/vendor
+/.idea
+.DS_Store
+npm-debug.log
+yarn-error.log
+.env
+composer.phar
+/resources/assets/bower
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+/config/ide-helper.php
+/config/workbench.php
+/public/assets
+/public/uploads/**/
+public/js/plugins/mathjax
+public/fonts/*.ttf
+/config/laravel-ffmpeg.php
